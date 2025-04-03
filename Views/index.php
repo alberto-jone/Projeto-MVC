@@ -73,6 +73,7 @@
         <h1>Bem-vindo ao Jogo de Xadrez</h1>
         <p>Desfrute de um clássico jogo de xadrez com um toque moderno!</p>
         <p><a href="./Routes/cost.php">Home</a></p>
+        <p><a href="https://www.chesshotel.com/pt/game">Jogar</a></p>
     </header>
     <main>
         <!-- <button class="btn-voltar" onclick="window.location.href='../Routes/cost.php'">Voltar à Página Inicial</button> -->
